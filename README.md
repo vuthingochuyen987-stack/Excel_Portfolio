@@ -7,8 +7,8 @@ Repo này tổng hợp các project phân tích dữ liệu thương mại đi�
 
 | # | Project | Câu hỏi kinh doanh | Công cụ |
 |---|---|---|---|
-| 1 | [Marketing Funnel Analysis](P1-marketing-funnel) | Kênh nào rò rỉ khách nhiều nhất, campaign nào tốn kém nhất? | Excel (PivotTable, PivotChart) |
-| 2 | [Customer Segmentation](P2-customer-segmentation) | Member Tier và nguồn khách có dự báo được giá trị khách hàng không? | Excel (PivotTable, PivotChart) |
+| 1 | [Marketing Funnel Analysis](P1_MarketingFunnel) | Kênh nào rò rỉ khách nhiều nhất, campaign nào tốn kém nhất? | Excel (PivotTable, PivotChart) |
+| 2 | [Customer Segmentation](P2_CustomerSegmentation) | Member Tier và nguồn khách có dự báo được giá trị khách hàng không? | Excel (PivotTable, PivotChart) |
 
 ## Skills
 Excel (PivotTable, PivotChart, công thức, dashboard) · Phân tích funnel · Phân khúc khách hàng · Trình bày insight
